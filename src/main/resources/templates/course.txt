@@ -1,0 +1,11 @@
+Spring mvp 
+
+2. COURSE API
+ Resources :   Topic, Course, Lesson
+
+Topics:
+       GET   /topics   Get all topics
+       GET   /topics/id   Get all topic
+       POST  /topics      Create a new topic
+       PUT   /topics/id   update the topic
+       DELETE /TOPICS/ID    Delete the topic
