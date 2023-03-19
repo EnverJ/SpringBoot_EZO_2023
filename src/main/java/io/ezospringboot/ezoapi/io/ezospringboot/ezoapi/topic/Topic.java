@@ -15,7 +15,7 @@ public class Topic {
     public Topic() {
     }
     
-    public String getId() {
+public String getId() {
         return this.id;
     }
 
