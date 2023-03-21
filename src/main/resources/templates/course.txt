@@ -9,3 +9,10 @@ Topics:
        POST  /topics      Create a new topic
        PUT   /topics/id   update the topic
        DELETE /TOPICS/ID    Delete the topic
+
+
+Customizing Spring Boot
+2. Application. properties
+localhost:8080 is a default.
+it can be change to other port. 
+Go to Application.properties --
